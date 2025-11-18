@@ -1,6 +1,5 @@
 media:
-- label: media
-  name: Media
+- label: Media
   input: assets
   output: assets
 
