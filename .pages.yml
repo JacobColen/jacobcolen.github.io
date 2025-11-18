@@ -7,7 +7,7 @@ content:
 - name: index.html
   label: Home
   type: file
-  path: src/index.html
+  path: index.html
   filename: "{primary}.md"
   view:
     fields: [ title, order ]
