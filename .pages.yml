@@ -1,7 +1,7 @@
 media:
 - label: media
   name: Media
-  input: src/assets
+  input: assets
   output: assets
 
 content:
