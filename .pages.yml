@@ -1,5 +1,6 @@
 media:
 - label: media
+  name: Media
   input: src/assets
   output: assets
 
