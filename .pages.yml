@@ -1,0 +1,20 @@
+media:
+- label: media
+  input: src/assets
+  output: assets
+
+content:
+- name: index.html
+  label: Home
+  type: file
+  path: src/index.html
+  filename: "{primary}.md"
+  view:
+    fields: [ title, order ]
+    primary: title
+    default: 
+      sort: order
+      order: asc
+  fields:
+
+
